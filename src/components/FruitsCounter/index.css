@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.bg {
+  background-color: yellow;
+  min-height: 100vh;
+}
+.card {
+  background-color: white;
+  width: 70%;
+  border-radius: 13px;
+}
